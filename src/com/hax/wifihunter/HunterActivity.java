@@ -1,7 +1,6 @@
 package com.hax.wifihunter;
 
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
 
 import android.app.Activity;

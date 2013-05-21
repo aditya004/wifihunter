@@ -4,5 +4,6 @@
     <string name="app_name">WifiHunter</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+	<color name="background_color">#000000</color>
+	<color name="white">#FFFFFF</color>
 </resources>
